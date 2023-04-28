@@ -35,8 +35,13 @@ textarea {
   color: white;
 }
 
+
 .present{
   background-color: #fff563;
+
+.present {
+  background-color: #61e5ff;
+
   color: white;
 }
 
