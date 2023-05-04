@@ -17,7 +17,7 @@ Link to deployed site:
 
 https://deegeedubs.github.io/daily-work-planner/
 
-
+<img width="1260" alt="Screenshot 2023-05-04 at 12 32 29 PM" src="https://user-images.githubusercontent.com/128939200/236286980-3ab51219-f9e8-4680-8bc8-5e8799b9b14a.png">
 
 ## Summary
 * Used Javascript to:
